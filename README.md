@@ -15,7 +15,7 @@ Born and living in 🇵🇹 after a few years in 🇬🇧. Exploring 🌎
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -30,6 +30,12 @@ Born and living in 🇵🇹 after a few years in 🇬🇧. Exploring 🌎
 ## 📫 How to reach me: ...
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-cunha-3155a98a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogofncunha@gmail.com)
+
+## ⭐️ My favorites ...
+- 📚 Engineering: [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+- 📚 Management: [High Output Management](https://www.amazon.de/-/en/Andrew-S-Grove/dp/B08RDKCH4M/ref=sr_1_2?adgrpid=81011716974&hvadid=394735072477&hvdev=c&hvlocphy=20866&hvnetw=g&hvqmt=e&hvrand=6430795873684053620&hvtargid=kwd-297473118671&hydadcr=24728_1949098&keywords=high+output+management&qid=1700085546&sr=8-2)
+- 📚 Business: [Zero to one](https://www.amazon.co.uk/Zero-to-One/dp/B00XLSKG5W/ref=sr_1_1?crid=3Q0O437WLROVG&keywords=zero+to+1&qid=1700085648&s=audible&sprefix=zero+to+1%2Caudible%2C81&sr=1-1)
+- 📚 Bio: [Steve Jobs by Walter Isaacson](https://www.amazon.co.uk/Steve-Jobs-Walter-Isaacson-2011-10-24/dp/B01K16UNFO/ref=sr_1_2?crid=GIP4WJIZCKAJ&keywords=steve+jobs+walter+isaacson&qid=1700085679&s=audible&sprefix=Steve+jobs%2Caudible%2C90&sr=1-2)
 
 <!--
 
